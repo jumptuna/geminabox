@@ -1,3 +1,6 @@
 [submodule "geminabox"]
 	path = cookbook-geminabox
 	url = https://github.com/chrisroberts/cookbook-geminabox.git
+[submodule "rc_mon"]
+	path = rc_mon
+	url = https://github.com/hw-cookbooks/rc_mon
