@@ -1,5 +1,5 @@
 [submodule "geminabox"]
-	path = cookbook-geminabox
+	path = geminabox
 	url = https://github.com/chrisroberts/cookbook-geminabox.git
 [submodule "rc_mon"]
 	path = rc_mon
