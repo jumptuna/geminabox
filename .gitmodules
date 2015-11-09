@@ -4,3 +4,9 @@
 [submodule "rc_mon"]
 	path = rc_mon
 	url = https://github.com/hw-cookbooks/rc_mon
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/chef-cookbooks/build-essential.git
+[submodule "ssl_certificate"]
+	path = ssl_certificate
+	url = https://github.com/zuazo/ssl_certificate-cookbook.git
