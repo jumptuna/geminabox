@@ -1,0 +1,3 @@
+[submodule "geminabox"]
+	path = cookbook-geminabox
+	url = https://github.com/chrisroberts/cookbook-geminabox.git
